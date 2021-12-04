@@ -1,4 +1,4 @@
-<h1 align="center">Peach Server</h1>
+<h1 align="center">Peach Client</h1>
 
 ## 🎮 Demonstração
 
