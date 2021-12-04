@@ -1,4 +1,6 @@
-package net.focaenterprises.peach;
+package net.focaenterprises.peach.entity;
+
+import net.focaenterprises.peach.game.Peach;
 
 import java.awt.Color;
 import java.awt.Graphics;

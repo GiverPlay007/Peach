@@ -1,4 +1,4 @@
-package net.focaenterprises.peach;
+package net.focaenterprises.peach.game;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
